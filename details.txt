@@ -1,0 +1,13 @@
+initialised git repo with git init
+config identity with git config commands
+created Readme.md add it with git add and commit it with git commit -m "message"
+created two files hello.html and index.html stage it with git add .
+track status with git status
+create branch with git checkout -b feature 
+do some changes in it and merge them
+now index.js created merge again and created merge conflict
+solve it(3 ways to soleve incoming,previous and both I choose third)
+add some content in file commit it and revert it 
+push the changes on GitHub(remote repo) with git push
+do some changes in readme.md at GitHub
+pull the code with git pull at local
